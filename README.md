@@ -1,7 +1,14 @@
 # Tiny Gaussian Splatting in 2D
 
-Splatting 2D Gaussians to represent images. Tiny, self-contained, and minimal
-implementation in a single Jupyter notebook.
+Splatting 2D Gaussians to represent images. Tiny, self-contained, low-overhead,
+and minimal implementation in a single Jupyter notebook.
+
+I wrote this notebook as part of the 3rd homework assignment for the
+Georgia Tech course CS8803/4803 CGA: Computer Graphics in the AI Era. You can
+find more information about the course here:
+[https://cgai-gatech.vercel.app/](https://cgai-gatech.vercel.app/). You can also
+find my corresponding guest lecture on 3D Gaussian Splatting on YouTube:
+[https://youtu.be/MBVmQSA24Yk](https://youtu.be/MBVmQSA24Yk).
 
 ## Install dependencies
 
