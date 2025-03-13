@@ -1,5 +1,7 @@
 # Tiny Gaussian Splatting in 2D
 
+![Header GIF](mona-lisa-n1000.gif)
+
 Splatting 2D Gaussians to represent images. Tiny, self-contained, low-overhead,
 and minimal implementation in a single Jupyter notebook.
 
